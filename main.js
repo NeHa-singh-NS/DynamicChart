@@ -27,7 +27,7 @@
         datasets : [
           {
     
-            label:'Social Media Report'+element.date,
+            label:'Social Media Report',
             data : [0,0,0,0,0,0],
             backgroundColor:['#2adece', '#dd3b79', '#ff766b', '#fd79a8', '#a29bfe', '#eccc68'],
             borderColor: [
